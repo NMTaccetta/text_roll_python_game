@@ -3,7 +3,7 @@ import random
 class Player: 
 
     def __init__(self):
-        self.name = input("> Nombre del personaje: \n")
+        self.name = input("> Nombre del personaje: \n> ")
         self.strengh = 10
         self.agility = 10
         self.constitution = 10
