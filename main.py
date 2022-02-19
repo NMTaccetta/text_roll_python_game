@@ -1,4 +1,4 @@
-from roll import Player
+from player import Player
 
 def main():
     play = Player()
